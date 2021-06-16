@@ -1,6 +1,10 @@
 # qvapay_card_payments
 Librería para pagos con la tarjeta de débito QVAPAY en merchants asociados.
 
+## Extensiones requeridas
+- php_openssl
+- php_curl
+
 ## Proceso de implementación de pagos con las tarjetas de débito
 1. Crear una cuenta en https://qvapay.com
 2. Crear una APP de desarrollo en https://qvapay.com/apps
